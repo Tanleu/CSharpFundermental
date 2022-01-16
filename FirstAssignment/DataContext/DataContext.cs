@@ -32,9 +32,9 @@ namespace FirstAssignment
             sectStudent.LastName = "Nguyen Minh";
             sectStudent.Gender = Gender.Male;
             sectStudent.DateOfBirth = System.DateTime.Now.AddYears(-50);
-            sectStudent.Age = 25;
+            sectStudent.Age = 20;
             sectStudent.BirthPlace = "Hai Duong";
-            sectStudent.PhoneNumber = "0922.11.09.96";
+            sectStudent.PhoneNumber = "0966.577.269";
             sectStudent.IsGraduated = true;
 
             ListStudent.Add(sectStudent);
