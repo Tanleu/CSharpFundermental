@@ -1,0 +1,15 @@
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\obj\Debug\net6.0\ThridAssigment.csproj.AssemblyReference.cache
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\obj\Debug\net6.0\ThridAssigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\obj\Debug\net6.0\ThridAssigment.AssemblyInfoInputs.cache
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\obj\Debug\net6.0\ThridAssigment.AssemblyInfo.cs
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\obj\Debug\net6.0\ThridAssigment.csproj.CoreCompileInputs.cache
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\bin\Debug\net6.0\ThridAssigment.exe
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\bin\Debug\net6.0\ThridAssigment.deps.json
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\bin\Debug\net6.0\ThridAssigment.runtimeconfig.json
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\bin\Debug\net6.0\ThridAssigment.dll
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\bin\Debug\net6.0\ref\ThridAssigment.dll
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\bin\Debug\net6.0\ThridAssigment.pdb
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\obj\Debug\net6.0\ThridAssigment.dll
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\obj\Debug\net6.0\ref\ThridAssigment.dll
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\obj\Debug\net6.0\ThridAssigment.pdb
+D:\RookieNashtech\Assignment\C#\FirstAssignment\CSharpFundermental\ThridAssigment\obj\Debug\net6.0\ThridAssigment.genruntimeconfig.cache
